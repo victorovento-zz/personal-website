@@ -1,0 +1,25 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/victorovento/personal-website.git"
+  },
+  "author": "Victor O. Vento",
+  "license": "ISC",
+  "dependencies": {
+    "@popperjs/core": "^2.4.0",
+    "animate": "^1.0.0",
+    "bootstrap": "^4.5.0",
+    "countup.js": "^2.0.5",
+    "normalize": "^0.3.1",
+    "jquery": "^3.5.1",
+    "scrollreveal": "^4.0.6",
+    "typed": "^0.3.3"
+  }
+}
